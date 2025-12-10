@@ -39,10 +39,17 @@ I'm a passionate in Software Development. I love building web apps and contribut
 
 ### 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=praneethallichetty&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneethallichetty&layout=compact&theme=tokyonight&hide_border=true"/>
+<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=praneethallichetty&theme=tokyonight&hide_border=true" alt="streak stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=praneethallichetty&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&border_radius=0&cache_seconds=3600" alt="Praneeth's GitHub Stats"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneethallichetty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&border_radius=0&cache_seconds=3600" alt="Top Languages"/>
+
+<br/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=praneethallichetty&theme=tokyonight&hide_border=true&background=0d1117&border_radius=0&cache_seconds=3600" alt="GitHub Streak Stats"/>
+
+</div>
 
 ### 🏆 Certifications
 - SQL & Relational Databases – IBM Cognitive Class

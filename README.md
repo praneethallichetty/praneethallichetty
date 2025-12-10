@@ -2,13 +2,13 @@
 
 # Hi there, I'm Praneeth Allichetty 👋
 
-I'm a passionate [your role, e.g., Software Developer | AI Enthusiast | Student] based in [your location, e.g., Hyderabad, India]. I love building [what you work on, e.g., web apps, machine learning models, open-source tools] and contributing to the tech community.
+I'm a passionate in Software Development. I love building web apps and contributing to the tech community.
 
 ![Your Stats Banner](https://github-readme-stats.vercel.app/api?username=praneethallichetty&show_icons=true&theme=radical&hide_border=true)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ff9d&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Praneeth+Allichetty;B.Tech+CSE+%7C+Full-Stack+Developer;Python+%7C+Django+%7C+Machine+Learning" alt="Typing SVG" />
 
-### Full-Stack Developer | Python Enthusiast | Machine Learning Beginner  
+### Full-Stack Developer | Python Enthusiast |  
 **Bengaluru, Karnataka, India**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Praneeth%20Allichetty-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/praneethallichetty/)
@@ -19,7 +19,7 @@ I'm a passionate [your role, e.g., Software Developer | AI Enthusiast | Student]
 
 ### 👨‍💻 About Me
 - B.Tech CSE graduate (2025) passionate about building **full-stack web applications** and **data-driven solutions**
-- Experienced in **Python, Django, SQL, HTML/CSS** and basic Machine Learning
+- Experienced in **Python, Django, SQL, HTML/CSS/JavaScript/React.JS** 
 - Recently completed **Data Analyst Internship** at Rooman Technologies (Feb–Jun 2025)
 - Actively looking for **Software Developer / Full-Stack Developer** roles
 

@@ -61,6 +61,17 @@ Top Languages Used: [![Top Lang](https://img.shields.io/badge/HTML-%2314354C?sty
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneethallichetty&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Most Used Languages" />
 </div>
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=praneethallichetty&show_icons=true&theme=gruvbox&hide_border=true&hide_rank=false&include_all_commits=true&count_private=true&cache_ttl=0&border_radius=0" width="50%" alt="Praneeth's GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneethallichetty&layout=compact&theme=gruvbox&hide_border=true&langs_count=8&cache_ttl=0&border_radius=0" width="40%" alt="Most Used Languages" />
+
+</div>
+<br/>
+<img src="https://streak-stats.demolab.com?user=praneethallichetty&theme=gruvbox&hide_border=true&border_radius=0" alt="GitHub Streak" />
 ### 🏆 Certifications
 - SQL & Relational Databases – IBM Cognitive Class
 - Python Essentials – Cisco Networking Academy

@@ -55,11 +55,6 @@ Top Languages Used: [![Top Lang](https://img.shields.io/badge/HTML-%2314354C?sty
 </div>
 <br><br><br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praneethallichetty&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show=prs,prs_merged,issues,contribs&hide=reviews,discussions" alt="Praneeth's GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneethallichetty&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Most Used Languages" />
-</div>
 
 ### 🏆 Certifications
 - SQL & Relational Databases – IBM Cognitive Class

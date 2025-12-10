@@ -41,13 +41,12 @@ I'm a passionate in Software Development. I love building web apps and contribut
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=praneethallichetty&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=9" alt="Praneeth's GitHub Stats" />
+[![Praneeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=praneethallichetty&show_icons=true&theme=radical)](https://github.com/praneethallichetty)
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneethallichetty&layout=compact&theme=dark&hide_border=true&border_radius=9" alt="Top Languages" />
-
-<br/>
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=praneethallichetty&theme=dark&hide_border=true&border_radius=9" alt="GitHub Streak Stats" />
+<!-- Fallback Shields -->
+[![GitHub Repo Count](https://img.shields.io/github/repo-size/praneethallichetty/praneethallichetty?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/praneethallichetty)
+[![Top Lang](https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/praneethallichetty)
+[![Contributions](https://img.shields.io/badge/Contributions-65-green?style=for-the-badge&logo=github&logoColor=white)](https://github.com/praneethallichetty)
 
 </div>
 

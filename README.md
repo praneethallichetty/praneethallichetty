@@ -15,7 +15,7 @@
 ### 👨‍💻 About Me
 - B.Tech CSE graduate (2025) passionate about building **full-stack web applications** and **data-driven solutions**
 - Skilled in **Python, Django, SQL, HTML/CSS/JavaScript, React.js**
-- Recently completed **Data Analyst Internship** at Rooman Technologies (Feb–Jun 2025)
+- Completed **Data Analyst Internship** at Rooman Technologies (Feb–Jun 2025)
 - Actively seeking **Software Developer / Full-Stack Developer** roles
 
 ### 🛠️ Tech Stack
@@ -31,7 +31,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181727?style=for-the-badge&logo=github&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
@@ -45,8 +44,6 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-
-[![Praneeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=praneethallichetty&show_icons=true&theme=radical)](https://github.com/praneethallichetty)
 
 <!-- Fallback Shields -->
 [![GitHub Repo Count](https://img.shields.io/github/repo-size/praneethallichetty/praneethallichetty?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/praneethallichetty)

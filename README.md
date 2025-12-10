@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Praneeth%20Allichetty-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/praneethallichetty/)
 [![Email](https://img.shields.io/badge/Email-praneethallichetty@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:praneethallichetty@gmail.com)
 
-</div>
+</div> 
 
 ### 👨‍💻 About Me
 - B.Tech CSE graduate (2025) passionate about building **full-stack web applications** and **data-driven solutions**

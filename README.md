@@ -52,7 +52,13 @@ Top Languages Used: [![Top Lang](https://img.shields.io/badge/HTML-%2314354C?sty
 [![Top Lang](https://img.shields.io/badge/CSS-%2314354C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/praneethallichetty)
 <br>
 [![Contributions](https://img.shields.io/badge/Contributions-65-green?style=for-the-badge&logo=github&logoColor=white)](https://github.com/praneethallichetty)
+</div>
+<br><br><br>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=praneethallichetty&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show=prs,prs_merged,issues,contribs&hide=reviews,discussions" alt="Praneeth's GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praneethallichetty&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Most Used Languages" />
 </div>
 
 ### 🏆 Certifications

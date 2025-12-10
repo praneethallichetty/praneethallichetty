@@ -47,7 +47,7 @@
 
 <!-- Fallback Shields -->
 [![GitHub Repo Count](https://img.shields.io/github/repo-size/praneethallichetty/praneethallichetty?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/praneethallichetty)
-[![Top Lang](https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/praneethallichetty)
+Top Languages Used: [![Top Lang](https://img.shields.io/badge/HTML-%2314354C?style=for-the-badge&logo=python&logoColor=white)](https://github.com/praneethallichetty)
 [![Contributions](https://img.shields.io/badge/Contributions-65-green?style=for-the-badge&logo=github&logoColor=white)](https://github.com/praneethallichetty)
 
 </div>

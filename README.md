@@ -4,7 +4,6 @@
 
 I'm a passionate in Software Development. I love building web apps and contributing to the tech community.
 
-![Your Stats Banner](https://github-readme-stats.vercel.app/api?username=praneethallichetty&show_icons=true&theme=radical&hide_border=true)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ff9d&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Praneeth+Allichetty;B.Tech+CSE+%7C+Full-Stack+Developer;Python+%7C+Django+%7C+Machine+Learning" alt="Typing SVG" />
 
@@ -36,6 +35,7 @@ I'm a passionate in Software Development. I love building web apps and contribut
 |--------|-------------|------------|-------|
 | **Food Ordering Platform** | Full-stack online food ordering app with Razorpay payments, RBAC (Customer & Vendor), responsive UI | Python, Django, SQLite, HTML, CSS | [Live Demo](https://praneeth135.pythonanywhere.com/) |
 | **5G Coverage Prediction** | ML model predicting 5G signal strength with 85% accuracy + interactive web interface | Python, Scikit-learn, Pandas, HTML, CSS |
+| **InfoHub Dashboard** | Interactive InfoHub Web App using React.js integrating modules like Weather Detector, Currency Converter, and Random Quote Generator | React.JS | [Live Demo](https://info-hub-challenge-ognm.vercel.app/) |
 
 ### 📊 GitHub Stats
 
